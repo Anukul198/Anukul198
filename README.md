@@ -7,7 +7,7 @@
 
 💻 I usually Create Websites using HTML, React Js, Redux and CSS.
 
-🚀 Built Multiple Clones using React, Redux.
+🚀 Built Multiple Clones using React.
 
 <!---
 Anukul198/Anukul198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
